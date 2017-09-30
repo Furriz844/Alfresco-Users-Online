@@ -1,0 +1,10 @@
+<webscript>
+    <shortname>Who is Online</shortname>
+    <description>
+        Return list of online users.
+    </description>
+    <url>/admin/users-online</url>
+    <authentication>admin</authentication>
+    <format defalult="json"/>
+    <lifecycle>draft_public_api</lifecycle>
+</webscript>
